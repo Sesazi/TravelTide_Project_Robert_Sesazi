@@ -25,5 +25,7 @@ This project involves analyzing customer behavior data to design a segmented per
 - Presentation Slides
 - Tablaue Visuals
 
+ Link to my  Tableau Sheets:  https://drive.google.com/file/d/17TvRP_5GNJTcpGhmfHWwhNgI8Uy--c7N/view?usp=sharing
+
 ## Author:
 Robert Sesazi

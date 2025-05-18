@@ -1,0 +1,15 @@
+TRAVELTIDE – Perk Design Table,,,
+Index,Perk,Metric,Weight
+EDC_Index,Exclusive Discounts,DISCOUNT USAGE RATE FIXED,1.00
+FCB_Index,Free checked bag,FLIGHT BOOKED INDICATOR,0.50
+FCB_Index,Free checked bag,FLIGHT DISCOUNT,0.50
+FHM_Index,Free hotel meal,LONG STAY RATIO,0.50
+FHM_Index,Free hotel meal,HOTEL STAY RATIO,0.50
+FHN_Index,Free hotel night,HOTEL SPEND PER NIGHT,0.50
+FHN_Index,Free hotel night,LONG STAY RATIO,0.50
+NCF_Index,Free to cancel,CANCELLATION RATE,1.00
+,,,
+Legend:,"• Weights are split evenly across metrics
+",,
+,"• 0.5 = two metrics
+• 1.0 = one metric",,

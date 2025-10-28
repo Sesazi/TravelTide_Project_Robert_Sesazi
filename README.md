@@ -17,15 +17,14 @@ This project involves analyzing customer behavior data to design a segmented per
 ## Tools Used:
 - Tableau
 - Google Sheets
-- Excel
 
 ## Files Included:
-- Final Report PDF
-- Source Data (CSV)
-- Presentation Slides
-- Tablaue Visuals
+Executive_summary_okr
+OKR_Mastery_Tableu_Dashboards
+Report_okr
+Traveltide_okr_presentation
 
- Link to my  Tableau Sheets:  https://drive.google.com/file/d/17TvRP_5GNJTcpGhmfHWwhNgI8Uy--c7N/view?usp=sharing
+Link to video:    https://www.loom.com/share/e1c6127f599f4a29944d407d49781ffd
 
 ## Author:
 Robert Sesazi
